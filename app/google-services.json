@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791644041007",
+    "firebase_url": "https://cankurtaran-5e4e1.firebaseio.com",
+    "project_id": "cankurtaran-5e4e1",
+    "storage_bucket": "cankurtaran-5e4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791644041007:android:113de3b4207c29b2",
+        "android_client_info": {
+          "package_name": "com.im.ilkaymalta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791644041007-grfu2non26nqq3ubt0jf08p6lvhelg82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.im.ilkaymalta",
+            "certificate_hash": "c3a05da10381ea26634b11d17f7411e53aa4a554"
+          }
+        },
+        {
+          "client_id": "791644041007-krt1e0jljmm5dvcfeeufhev2a9mipo22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vl0TlN8QOoH6l6bcl5NVqplCJL0L2OE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791644041007-krt1e0jljmm5dvcfeeufhev2a9mipo22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
